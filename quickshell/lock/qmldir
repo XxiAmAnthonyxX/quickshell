@@ -1,0 +1,4 @@
+module qs
+singleton Theme 1.0 Theme.qml
+LockContext 1.0 modules/LockContext.qml
+LockSurface 1.0 modules/LockSurface.qml
